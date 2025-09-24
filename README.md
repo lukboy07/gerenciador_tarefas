@@ -28,7 +28,7 @@ gerenciador_tarefas/
 1. Clone o repositório:
 
 ```bash
-git clone <URL_DO_SEU_REPO>
+git clone https://github.com/lukboy07/gerenciador_tarefas
 ```
 
 2. Entre na pasta do projeto:
